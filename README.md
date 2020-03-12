@@ -2,9 +2,7 @@
   
 ![Status][status] ![Uptime][uptime]  
 ![Servers][servers] ![Version][version] ![License][license]  
-<br><br>
-
----
+<br><hr>
 
 HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what makes her unique are her one-of-a-kind features that you never even knew you needed.
 
