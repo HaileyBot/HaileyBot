@@ -8,9 +8,11 @@
 
 HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what makes her unique are her one-of-a-kind features that you never even knew you needed.
 
-**DISCLAIMER:** This repository is _not_ intended to be an open-source bot that anybody can host. If you're smart, you can fork this repo and fill in the missing pieces yourself - just remember to follow the terms of the [License](https://github.com/HaileyBot/haileybot/blob/master/LICENSE). Please do not request help with setting up your own hosted version of this bot, as that's a task that should only be taken on by more advanced developers.
+- [HomePage](https://www.haileybot.com)
+- [Bot Invite](https://invite.haileybot.com)
+- [Support Server](https://discord.gg/7QH4YeD)
 
-### 🏠 [Homepage](https://www.haileybot.com)
+**Disclaimer:** This repository is _not_ intended to be an open-source bot that anybody can host. If you're smart, you can fork this repo and fill in the missing pieces yourself - just remember to follow the terms of the [License](https://github.com/HaileyBot/haileybot/blob/master/LICENSE). Please do not request help with setting up your own hosted version of this bot, as that's a task that should only be taken on by more advanced developers.
 
 ## Author
 
