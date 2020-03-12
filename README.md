@@ -1,4 +1,11 @@
-<h1 align="center">Welcome to HaileyBot 👋</h1>
+<img src="https://www.haileybot.com/images/haileybot.png" align="left" height="160px"><h1>HaileyBot</h1>
+  
+![Status][status] ![Uptime][uptime]  
+![Servers][servers] ![Version][version] ![License][license]  
+<br>
+
+---
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-6.1.3-blue.svg?cacheSeconds=2592000" />
   <a href="https://docs.haileybot.com" target="_blank">
