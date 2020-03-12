@@ -28,7 +28,7 @@ HaileyBot was created by Quin Knight, more commonly known on the internet as "ch
 
 ## Show your support
 
-Give a ⭐️ to say thanks, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" height="30px" alt="buy me a coffee">](https://donate.haileybot.com) ? 
+Give a ⭐️ to say thanks, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" align="top" height="30px" alt="buy me a coffee">](https://donate.haileybot.com) ? 
 
 ---
 
