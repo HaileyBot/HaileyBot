@@ -20,9 +20,9 @@ HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what 
 
 HaileyBot was created by Quin Knight, more commonly known on the internet as "cheesits456".
 
-* [Website](https://cheesits456.dev)
-* [Github](https://github.com/cheesits456)
-* [LinkedIn](https://linkedin.com/in/cheesits456)
+[![Website][cheesits456web]](https://cheesits456.dev)
+[![GitHub][cheesits456git]](https://github.com/cheesits456)
+[![LinkedIn][cheesits456in]](https://linkedin.com/in/cheesits456)
 
 ---
 
@@ -46,3 +46,6 @@ This project is licensed under [AGPL-3.0](https://github.com/cheesits456/haileyb
 [homepage]: https://img.shields.io/badge/-HomePage-2c75ff?style=for-the-badge
 [botinvite]: https://img.shields.io/badge/-Bot%20Invite-2c75ff?style=for-the-badge
 [supportserver]: https://img.shields.io/badge/-Support%20Server-2c75ff?style=for-the-badge
+[cheesits456web]: https://img.shields.io/badge/-Website-e722e7?style=for-the-badge
+[cheesits456git]: https://img.shields.io/badge/-GitHub-e722e7?style=for-the-badge
+[cheesits456in]: https://img.shields.io/badge/-LinkedIn-e722e7?style=for-the-badge
