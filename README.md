@@ -28,7 +28,7 @@ HaileyBot was created by Quin Knight, more commonly known on the internet as "ch
 
 ## Show your support
 
-Give a ⭐️ to say thanks, or perhaps even [buy me a coffee](https://donate.haileybot.com)? 
+Give a ⭐️ to say thanks, or perhaps even [<img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" height="30px" alt="buy me a coffee">](https://donate.haileybot.com) ? 
 
 ---
 
@@ -49,3 +49,4 @@ This project is licensed under [AGPL-3.0](https://github.com/cheesits456/haileyb
 [cheesits456web]: https://img.shields.io/badge/-Website-e722e7?style=for-the-badge
 [cheesits456git]: https://img.shields.io/badge/-GitHub-e722e7?style=for-the-badge
 [cheesits456in]: https://img.shields.io/badge/-LinkedIn-e722e7?style=for-the-badge
+[coffee]: https://cdn.buymeacoffee.com/buttons/lato-blue.png
