@@ -2,37 +2,40 @@
   
 ![Status][status] ![Uptime][uptime]  
 ![Servers][servers] ![Version][version] ![License][license]  
-<br><br>
+<br><hr>
 
----
+## About
 
 HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what makes her unique are her one-of-a-kind features that you never even knew you needed.
 
-> **DISCLAIMER:** This repository is _not_ intended to be an open-source bot that anybody can host. If you're smart, you can fork this repo and fill in the missing pieces yourself - just remember to follow the terms of the [License](https://github.com/HaileyBot/haileybot/blob/master/LICENSE). Please do not request help with setting up your own hosted version of this bot, as that's a task that should only be taken on by more advanced developers. 
+- [HomePage](https://www.haileybot.com)
+- [Bot Invite](https://invite.haileybot.com)
+- [Support Server](https://discord.gg/7QH4YeD)
 
-### 🏠 [Homepage](https://www.haileybot.com)
+**Disclaimer:** This repository is _not_ intended to be an open-source bot that anybody can host. If you're smart, you can fork this repo and fill in the missing pieces yourself - just remember to follow the terms of the [License](https://github.com/HaileyBot/haileybot/blob/master/LICENSE). Please do not request help with setting up your own hosted version of this bot, as that's a task that should only be taken on by more advanced developers.
 
-## Author
+---
 
-👤 **cheesits456**
+## Creator
 
-* Website: https://cheesits456.dev
-* Github: [@cheesits456](https://github.com/cheesits456)
-* LinkedIn: [@cheesits456](https://linkedin.com/in/cheesits456)
+HaileyBot was created by Quin Knight, more commonly known on the internet as "cheesits456".
 
-## 🤝 Contributing
+* [Website](https://cheesits456.dev)
+* [Github](https://github.com/cheesits456)
+* [LinkedIn](https://linkedin.com/in/cheesits456)
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/cheesits456/haileybot/issues). You can also take a look at the [contributing guide](https://github.com/cheesits456/haileybot/blob/master/CONTRIBUTING.md).
+---
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ to say thanks, or perhaps even [buy me a coffee](https://donate.haileybot.com)? 
 
-## 📝 License
+---
 
-Copyright © 2020 [cheesits456](https://github.com/cheesits456).<br />
-This project is [AGPL--3.0](https://github.com/cheesits456/haileybot/blob/master/LICENSE) licensed.
+## License
 
+Copyright © 2017-2020 [cheesits456](https://github.com/cheesits456).  
+This project is licensed under [AGPL-3.0](https://github.com/cheesits456/haileybot/blob/master/LICENSE).
 
 
 [status]: https://img.shields.io/badge/dynamic/json?color=brightgreen&label=status&query=status&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F423637161632464906&style=flat-square
