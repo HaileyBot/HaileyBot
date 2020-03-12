@@ -26,19 +26,16 @@ HaileyBot was created by Quin Knight, more commonly known on the internet as "ch
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/cheesits456/haileybot/issues). You can also take a look at the [contributing guide](https://github.com/cheesits456/haileybot/blob/master/CONTRIBUTING.md).
-
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ to say thanks, or perhaps even [buy me a coffee](https://donate.haileybot.com)? 
+
+---
 
 ## 📝 License
 
-Copyright © 2020 [cheesits456](https://github.com/cheesits456).<br />
-This project is [AGPL--3.0](https://github.com/cheesits456/haileybot/blob/master/LICENSE) licensed.
-
+Copyright © 2017-2020 [cheesits456](https://github.com/cheesits456).  
+This project is licensed under [AGPL--3.0](https://github.com/cheesits456/haileybot/blob/master/LICENSE).
 
 
 [status]: https://img.shields.io/badge/dynamic/json?color=brightgreen&label=status&query=status&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F423637161632464906&style=flat-square
