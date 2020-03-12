@@ -16,7 +16,7 @@ HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what 
 
 ## Author
 
-<img src="https://cdn.discordapp.com/emojis/661002543391834153.gif?size=32" align="left" height="22px"> **cheesits456**
+<img src="https://cdn.discordapp.com/emojis/661002543391834153.gif?size=32" align="left" height="25px"><b>cheesits456</b>
 
 * Website: https://cheesits456.dev
 * Github: [@cheesits456](https://github.com/cheesits456)
