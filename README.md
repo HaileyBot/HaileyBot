@@ -14,13 +14,17 @@ HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what 
 
 **Disclaimer:** This repository is _not_ intended to be an open-source bot that anybody can host. If you're smart, you can fork this repo and fill in the missing pieces yourself - just remember to follow the terms of the [License](https://github.com/HaileyBot/haileybot/blob/master/LICENSE). Please do not request help with setting up your own hosted version of this bot, as that's a task that should only be taken on by more advanced developers.
 
-## Author
+---
+
+## Creator
 
 <img src="https://cdn.discordapp.com/emojis/661002543391834153.gif?size=32" align="left" height="25px"><b>cheesits456</b>
 
-* Website: https://cheesits456.dev
-* Github: [@cheesits456](https://github.com/cheesits456)
-* LinkedIn: [@cheesits456](https://linkedin.com/in/cheesits456)
+* [Website](https://cheesits456.dev)
+* [Github](https://github.com/cheesits456)
+* [LinkedIn](https://linkedin.com/in/cheesits456)
+
+---
 
 ## 🤝 Contributing
 
