@@ -2,24 +2,11 @@
   
 ![Status][status] ![Uptime][uptime]  
 ![Servers][servers] ![Version][version] ![License][license]  
-<br>
+<br><br>
 
 ---
 
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-6.1.3-blue.svg?cacheSeconds=2592000" />
-  <a href="https://docs.haileybot.com" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/cheesits456/haileybot/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/cheesits456/haileybot/blob/master/LICENSE" target="_blank">
-    <img alt="License: AGPL--3.0" src="https://img.shields.io/github/license/cheesits456/HaileyBot" />
-  </a>
-</p>
-
-> HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what makes her unique are her one-of-a-kind features that you never even knew you needed.
+> **DISCLAIMER:** This repository is _not_ intended to be an open-source bot that anybody can host. If you're smart, you can fork this repo and fill in the missing pieces yourself - just remember to follow the terms of the [License](https://github.com/HaileyBot/haileybot/blob/master/LICENSE). Please do not request help with setting up your own hosted version of this bot, as that's a task that should only be taken on by more advanced developers. 
 
 ### 🏠 [Homepage](https://www.haileybot.com)
 
