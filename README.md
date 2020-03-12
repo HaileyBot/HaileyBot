@@ -32,7 +32,7 @@ Give a ⭐️ to say thanks, or perhaps even [buy me a coffee](https://donate.ha
 
 ---
 
-## 📝 License
+## License
 
 Copyright © 2017-2020 [cheesits456](https://github.com/cheesits456).  
 This project is licensed under [AGPL--3.0](https://github.com/cheesits456/haileybot/blob/master/LICENSE).
