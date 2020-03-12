@@ -16,7 +16,7 @@ HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what 
 
 ## Author
 
-👤 **cheesits456**
+<img src="https://cdn.discordapp.com/emojis/661002543391834153.gif?size=32" align="left" height="22px"> **cheesits456**
 
 * Website: https://cheesits456.dev
 * Github: [@cheesits456](https://github.com/cheesits456)
@@ -42,3 +42,4 @@ This project is [AGPL--3.0](https://github.com/cheesits456/haileybot/blob/master
 [servers]: https://img.shields.io/badge/dynamic/json?label=servers&query=guildCount&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F423637161632464906&style=flat-square&color=2c75ff
 [version]: https://img.shields.io/github/package-json/v/HaileyBot/haileybot?color=5F4DEF&style=flat-square
 [license]: https://img.shields.io/github/license/HaileyBot/haileybot?style=flat-square&color=blueviolet
+[cheesits456]: https://cdn.discordapp.com/emojis/661002543391834153.gif?size=16
