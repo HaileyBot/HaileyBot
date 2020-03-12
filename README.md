@@ -8,9 +8,9 @@
 
 HaileyBot is a multipurpose bot with many &#34;standard&#34; commands, but what makes her unique are her one-of-a-kind features that you never even knew you needed.
 
-- [HomePage](https://www.haileybot.com)
-- [Bot Invite](https://invite.haileybot.com)
-- [Support Server](https://discord.gg/7QH4YeD)
+[![HomePage][homepage]](https://www.haileybot.com)  
+[![Bot Invite][botinvite]](https://invite.haileybot.com)  
+[![Support Server][supportserver]](https://discord.gg/7QH4YeD)
 
 **Disclaimer:** This repository is _not_ intended to be an open-source bot that anybody can host. If you're smart, you can fork this repo and fill in the missing pieces yourself - just remember to follow the terms of the [License](https://github.com/HaileyBot/haileybot/blob/master/LICENSE). Please do not request help with setting up your own hosted version of this bot, as that's a task that should only be taken on by more advanced developers.
 
@@ -43,3 +43,6 @@ This project is licensed under [AGPL-3.0](https://github.com/cheesits456/haileyb
 [servers]: https://img.shields.io/badge/dynamic/json?label=servers&query=guildCount&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F423637161632464906&style=flat-square&color=2c75ff
 [version]: https://img.shields.io/github/package-json/v/HaileyBot/haileybot?color=5F4DEF&style=flat-square
 [license]: https://img.shields.io/github/license/HaileyBot/haileybot?style=flat-square&color=blueviolet
+[homepage]: https://img.shields.io/badge/-HomePage-2c75ff?style=for-the-badge
+[botinvite]: https://img.shields.io/badge/-Bot%20Invite-2c75ff?style=for-the-badge
+[supportserver]: https://img.shields.io/badge/-Support%20Server-2c75ff?style=for-the-badge
