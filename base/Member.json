@@ -1,0 +1,11 @@
+{
+	"exp": 0,
+	"level": 0,
+	"money": 0,
+	"bankSold": 0,
+	"workStreak": 0,
+	"cooldowns": {
+		"work": 0,
+		"rob": 0
+	}
+}
